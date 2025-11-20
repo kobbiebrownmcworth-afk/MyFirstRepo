@@ -1,2 +1,2 @@
-what I have learned in this course
-I havd learnt how to create repositories,branches,pull requests and commands on the terminal
+What I have learned from this course
+I have learned how to create repositories,branches,pull requests and commands on the terminal
